@@ -22,11 +22,9 @@ namespace Labb3
             Teckning F1 = new Fyrkant();
             Teckning C1 = new Cirkel();
             Teckning R1 = new Rektangel();
-            Console.WriteLine( R1.Area());
-            Console.WriteLine( F1.Area() );
-            Console.WriteLine( C1.Area());
-
-
+            Console.WriteLine(R1.Area());
+            Console.WriteLine(F1.Area());
+            Console.WriteLine(C1.Area());
 
 
         }
